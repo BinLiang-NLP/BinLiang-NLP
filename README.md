@@ -5,7 +5,7 @@ I am **Bin Liang**! I am a Ph.D. student working on researches related to NLP an
 - 📚️ My current research interests include natural language processing, sentiment analysis, and machine learning.
 - 📫 Visit my [porfolio website](https://BinLiang-NLP.github.io/) for complete background and contact.
 
-<table border="1">
+<table border="0">
   </tr>
   <td width="55%">
   <p>
