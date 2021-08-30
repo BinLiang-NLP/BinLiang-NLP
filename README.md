@@ -7,11 +7,11 @@ I am **Bin Liang**! I am a Ph.D. student working on researches related to NLP an
 
 <td width="55%">
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BinLiang-NLP&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BinLiang-NLP&show_icons=true&theme=radical&line_height=33">
 </p>
 </td>
 <td width="45%">
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BinLiang-NLP&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BinLiang-NLP&hide_langs_below=.25&theme=radical">
 </p>
 </td>
