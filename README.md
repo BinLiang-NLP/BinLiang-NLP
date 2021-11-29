@@ -3,6 +3,7 @@
 I am **Bin Liang**! I am a Ph.D. student working on researches related to NLP and machine learning.
 - 👨🏼‍🎓 I am studying at Harbin Institute of Technology, Shenzhen.
 - 📚️ My current research interests include natural language processing, sentiment analysis, and machine learning.
+- 📃 I have published more than 20 papers with top conferences and journals, such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>CIKM</strong>, <strong>COLING</strong>, <strong>IEEE TAC</strong>, etc.
 - 📫 Please visit my [porfolio website](https://BinLiang-NLP.github.io/) for complete background and contact.
 
 <!--
