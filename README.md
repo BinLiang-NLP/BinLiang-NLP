@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am **Bin Liang**! 
+My name is **Bin Liang**! 
 
 I am a Ph.D. student working on researches related to NLP and machine learning.
 - 👨🏼‍🎓 I am studying at Harbin Institute of Technology, Shenzhen.
