@@ -5,7 +5,7 @@ My name is **Bin Liang**!
 I am a Postdoctoral Fellow working on research related to NLP and machine learning.
 - 👨🏼‍🎓 I got my doctorate from **Harbin Institute of Technology, Shenzhen, China**.
 - 📚️ My current research interests include <strong>natural language processing</strong>, <strong>sentiment analysis</strong>, <strong>multimodal learning</strong>, and <strong>machine learning</strong>.
-- 📃 I have published more than 30 papers with top conferences and journals, such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>ACM TOIS</strong>, <strong>IEEE TAC</strong>, etc.
+- 📃 I have published more than 30 papers with top conferences and journals, such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM TOIS</strong>, <strong>IEEE TAC</strong>, etc.
 - 📫 Please visit my [personal website](https://BinLiang-NLP.github.io/) for complete background and contact.
 
 <!--
